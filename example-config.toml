@@ -1,0 +1,7 @@
+[[signatures]]
+name = "Signature Name 1"
+regex = "your-regex-here-1"
+
+[[signatures]]
+name = "Signature Name 2"
+regex = "your-regex-here-2"
