@@ -2,16 +2,6 @@
 
 This command-line tool written in Go allows you to detect JavaScript signatures on webpages given a URL. It fetches the HTML of a webpage, identifies and downloads JavaScript files, and checks them against predefined regular expression "signatures" specified in a TOML configuration file to identify JavaScript signatures used on the page.
 
-## Table of Contents
-
-- [JavaScript Signature Scanner](#javascript-signature-scanner)
-  - [Table of Contents](#table-of-contents)
-  - [Introduction](#introduction)
-  - [Installation](#installation)
-  - [Configuration](#configuration)
-  - [Output](#output)
-  - [External Dependencies](#external-dependencies)
-
 ## Introduction
 
 This tool provides insight into the JavaScript signatures employed by a webpage. It can:
